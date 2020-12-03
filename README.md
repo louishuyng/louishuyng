@@ -34,8 +34,10 @@
 
 [<img align="left" alt="huy-nguy?n-4b0717108 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="hyhycode | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="hyhycode | DevProfile" height="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devProfile]
 
 <br />
 
 [instagram]: https://www.instagram.com/hyhycode
 [linkedin]: https://www.linkedin.com/in/huy-nguy%E1%BB%85n-4b0717108/
+[devProfile]: https://dev.to/nqhuyd
