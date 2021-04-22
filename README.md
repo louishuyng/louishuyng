@@ -1,12 +1,10 @@
 # <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Louis Nguyen** 🎯️🚀️</p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
  
-## Spotify Playing 🎧
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/l4FGo2HgcJHi4prFK/giphy.gif" /> 
-
+# Spotify Playing 🎧<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/l4FGo2HgcJHi4prFK/giphy.gif" /> 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/214oz6ozgo55nrmqmskpfg5xa)
 
-## 🛠Languages & Tools
+# 🛠Languages & Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
