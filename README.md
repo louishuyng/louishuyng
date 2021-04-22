@@ -1,13 +1,5 @@
 # <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Louis Nguyen** 🎯️🚀️</p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-
--  👨‍💻 I’m currently working on web development technologies like Typescript, React, NodeJS etc.
-- 📚 I'm currently learning everything about Backend and DevOps technologies 😅
-- 💪🏼Future Goals: Learn more technologies - Never stop creating new ideas - Be a hacker.
-
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
  
 ## Spotify Playing 🎧
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/l4FGo2HgcJHi4prFK/giphy.gif" /> 
@@ -24,20 +16,6 @@
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-CC2927?style=for-the-badge&logo=amazon&logoColor=yellow&labelColor=black&color=black)
 
-
 ![Neovim](https://img.shields.io/badge/-NeoVim-019733?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-## 🌐 **Reach out to me:**
-
-[<img align="left" alt="huy-nguy?n-4b0717108 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="hyhycode | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="hyhycode | DevProfile" height="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devProfile]
-
-<br />
-
-[instagram]: https://www.instagram.com/hyhycode
-[linkedin]: https://www.linkedin.com/in/huy-nguy%E1%BB%85n-4b0717108/
-[devProfile]: https://dev.to/nqhuyd
