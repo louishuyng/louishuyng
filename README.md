@@ -1,2 +1,1 @@
-[![An image of @louishuyng's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/louishuyng)](https://holopin.io/@louishuyng)
-
+<h3>Hi, I am Louis, a software developer who loves learning and exploring.</h3>
